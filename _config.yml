@@ -5,13 +5,13 @@ description: "We optimize data privacy and compliance programs, building private
 title_name: dario.com
 author: dario.com Staff
 # Language format language_TERRITORY. Default is en_US
-lang: en_US
+lang: fr_CA
 # website logos, images & icons
 header-img: img/home.jpg
 logo: img/chklst.png
 image: "img/home.jpg"
 # urls
-baseurl: "/services"
+baseurl: "/fr-services"
 url: "https://dario.com"
 
 # copyright text in footer
