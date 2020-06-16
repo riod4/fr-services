@@ -12,7 +12,10 @@ logo: img/chklst.png
 image: "img/home.jpg"
 # urls
 baseurl: "/fr-services"
+# en home url
 url: "https://dario.com"
+# fr home url
+url-fr: "https://dario.com/fr"
 
 # copyright text in footer
 copyright_name: dario.com
