@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Privacy Policy"
+title: "Confidentialité"
 subtitle:
 description: "Your privacy on our site."
 date: 2018-02-21 12:00:00
