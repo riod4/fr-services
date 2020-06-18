@@ -4,7 +4,7 @@ title: "Confidentialité"
 subtitle:
 description: "Protection des données personnels."
 date: 2018-02-21 12:00:00
-permalink: /privacy-policy
+permalink: /confidentialite
 canonical_url:
 author: dario.com Staff
 header-img: "img/privacy-policy.jpg"
