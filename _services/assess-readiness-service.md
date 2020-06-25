@@ -2,7 +2,7 @@
 layout:     services
 title:      "Évaluer vos besoins"
 subtitle:   "Proposer des solutions adaptées à vos objectifs."
-description: "As consumers embrace the convenience of data-driven platforms, data privacy and security will not only be a risk management issue, but a competitive advantage."
+description: "Alors que les consommateurs sont attirées vers de nouvelles plates-formes numériques, la sécurité des données privées n’ai pas seulement un problème de gestion des risques, mais un possible avantage concurrentiel."
 date:       2020-01-21 12:00:00
 permalink:  /evaluer-vos-besoins
 author:     "dario"
