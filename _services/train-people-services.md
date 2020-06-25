@@ -1,10 +1,10 @@
 ---
 layout:     services
-title:      "Train people"
-subtitle:   "Guiding employees on compliance and data privacy."
-description: "Beyond legal compliance, with the right training, all employees can demonstrate they value privacy, building trust with customers and business partners."
+title:      "Former vos employés"
+subtitle:   "Guider vos employés en matière de conformité et de sécurité."
+description: "Au-delà de la conformité, avec une bonne formation, tous les employés peuvent démontrer qu'ils apprécient la confidentialité, instaurant la confiance avec les clients et partenaires commerciaux."
 date:       2020-01-23 12:00:00
-permalink:  /train-people
+permalink:  /former-vos-employes
 author:     "dario"
 header-img: "img/train-people.png"
 image: "/img/train-people.png"
@@ -14,26 +14,26 @@ header-credit-link:
 header-license:
 ---
 
-## Increasing privacy awareness
-The most common cause of privacy breaches is human error. It may be the loss of unencrypted portable devices, sharing/disclosing passwords, or allowing all email addresses to be viewable in mass emails. Privacy training can help avoid these types of errors by ensuring that employees understand their roles and obligations under applicable laws and policies. In addition to being good practice, privacy training is now required by law in many countries. Data-driven organizations also need to carefully consider role specific privacy training to ensure personal data is processed lawfully. A comprehensive  training program should include: 
+## Sensibilisation accrue à la vie privée
+La cause la plus courante de violation de la vie privée est l'erreur humaine. Cela peut être la perte d'appareils portables non cryptés, le partage / la divulgation de mots de passe ou la possibilité de voir toutes les adresses e-mail dans les e-mails de masse. La formation sur la confidentialité peut aider à éviter ces types d'erreurs en s'assurant que les employés comprennent leurs rôles et obligations en vertu des lois et politiques applicables. En plus d'être une bonne pratique, la formation à la protection de la vie privée est désormais exigée par la loi dans de nombreux pays. Les organisations axées sur les données doivent également examiner attentivement la formation spécifique à la confidentialité des rôles afin de garantir que les données personnelles sont traitées légalement. Un programme de formation complet devrait comprendre:
 
-- General privacy training for all employees;
-- Role-specific training; and 
-- Regular training updates.
+- Formation générale sur la confidentialité pour tous les employés;
+- Formation spécifique au rôle; et
+- Mises à jour régulières de la formation.
 
-### General privacy training  
-General privacy training should be mandatory for all employees. This training should, at a minimum, ensure employees are aware that laws apply to collection, use, storage and disclosure of personal information, and failure to comply with such laws can have consequences both for the individual and the organization. It should provide information on the organization's own privacy policies, including where to find those policies and who they can and should contact if they need guidance. Employees should be coached on how to recognize and respond to privacy inquiries, complaints and requests for access, including how and when to escalate such matters to the person(s) within the organization who are responsible for privacy compliance. Finally, privacy training must ensure all employees are aware of how and when to report actual or suspected privacy incidents.
-
-
-### Role-specific privacy training  
-Training all employees on general legal privacy principles is a start. Targeted, role-specific privacy training to relevant employee groups is an area where forward thinking organizations can gain a competitive advantage. For example:
-
-**Information Technology** – Security will be a main focus of training for IT staff. IT staff will need to understand legal requirements to implement technological security measures appropriate to the sensitivity of information, so that they can assist the organization to comply with legal obligations.
-
-**Marketing** – Training for marketing employees should address consent requirements applicable to using personal information for marketing purposes, including the requirement for fresh consent to use such information for new purposes. Marketing employees should also be provided with information on legal developments applicable to their function, such as anti-spam legislation. Employees who regularly build data-driven campaigns also need to understand when they need to seek guidance on privacy issues.
+### Formation générale sur la confidentialité
+Une formation générale sur la confidentialité devrait être obligatoire pour tous les employés. Cette formation devrait, au minimum, s'assurer que les employés sont conscients que les lois s'appliquent à la collecte, l'utilisation, le stockage et la divulgation des informations personnelles, et le non-respect de ces lois peut avoir des conséquences à la fois pour l'individu et l'organisation. Il doit fournir des informations sur les propres politiques de confidentialité de l'organisation, y compris où trouver ces politiques et qui elles peuvent et doivent contacter si elles ont besoin de conseils. Les employés doivent être formés sur la façon de reconnaître et de répondre aux demandes de renseignements, aux plaintes et aux demandes d'accès à la vie privée, y compris comment et quand transmettre ces questions aux personnes au sein de l'organisation qui sont responsables du respect de la vie privée. Enfin, la formation sur la confidentialité doit garantir que tous les employés savent comment et quand signaler les incidents de confidentialité réels ou suspectés.
 
 
-### Staying up-to-date 
-Privacy law is rapidly developing worldwide. Organizations are rarely static, and the way that they collect, use and disclose personal information changes over time. It is important that employees receive training on any new requirements or restrictions arising out of legal, organizational or policy changes. This ensures that any employee is thoroughly coached in privacy protection and understands how it applies to their day-to-day responsibilities.
+### Formation sur la confidentialité spécifique au rôle
+La formation de tous les employés aux principes juridiques généraux de confidentialité est un début. La formation ciblée et spécifique au rôle des groupes d'employés concernés est un domaine dans lequel les organisations avant-gardistes peuvent obtenir un avantage concurrentiel. Par exemple:
 
-To hear how we can help raise your employees' privacy awareness and skills, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
+** Technologie de l'information ** - La sécurité sera au cœur de la formation du personnel informatique. Le personnel informatique devra comprendre les exigences légales pour mettre en œuvre des mesures de sécurité technologiques adaptées à la sensibilité des informations, afin d'aider l'organisation à se conformer aux obligations légales.
+
+** Marketing ** - La formation pour les employés du marketing devrait aborder les exigences de consentement applicables à l'utilisation des informations personnelles à des fins de marketing, y compris l'exigence d'un nouveau consentement pour utiliser ces informations à de nouvelles fins. Les employés du marketing devraient également recevoir des informations sur les développements juridiques applicables à leur fonction, tels que la législation anti-spam. Les employés qui créent régulièrement des campagnes basées sur les données doivent également comprendre quand ils doivent demander des conseils sur les questions de confidentialité.
+
+
+### Rester à jour
+Le droit à la vie privée se développe rapidement dans le monde entier. Les organisations sont rarement statiques, et la façon dont elles collectent, utilisent et divulguent les informations personnelles change avec le temps. Il est important que les employés reçoivent une formation sur toute nouvelle exigence ou restriction résultant de changements juridiques, organisationnels ou politiques. Cela garantit que tout employé est parfaitement formé à la protection de la vie privée et comprend comment cela s'applique à ses responsabilités quotidiennes.
+
+Pour savoir comment nous pouvons aider à accroître la sensibilisation et les compétences de vos employés en matière de confidentialité, contactez-nous. [** Contactez-nous **] ({{site.baseurl}} / contact)
