@@ -15,7 +15,7 @@ header-license: CC0 Creative Commons
 ---
 
 ## Les données sont au cœur de votre entreprise
-De plus en plus, notre monde fonctionne avec des données; une partie critique, une grande partie confidentielle. L'information est devenue l'un des atouts les plus précieux d'une organisation. Cet [article de la Harvard Business School] (https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/) {: rel = " nofollow noopener noreferrer "} {: target =" _ blank "} met en évidence le programme de fidélité de Caesar Entertainment, _Total Rewards_;
+De plus en plus, notre monde fonctionne avec des données; une partie critique, une grande partie confidentielle. L'information est devenue l'un des atouts les plus précieux d'une organisation. Cet [article de la Harvard Business School](https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/){:rel="nofollow noopener noreferrer"}{:target="_ blank"} met en évidence le programme de fidélité de Caesar Entertainment, _Total Rewards_;
 
 > ### L’atout le plus précieux de Caesar’s Entertainment Corp. n’est pas la station balnéaire à thème romain fabuleusement collante du Strip de Las Vegas. Il s'agit du programme de fidélisation Big Data de l'entreprise, évalué à 1 milliard de dollars.
 - <cite> Harvard Business School </cite>
@@ -38,4 +38,4 @@ Avec le réchauffement du climat réglementaire dans le monde pour la protection
 ### Tirez parti de votre investissement en matière de confidentialité
 Au sein d'une organisation, la confidentialité est essentielle pour établir et maintenir la confiance. Si les clients, les clients ou les employés croient que leurs informations personnelles seront traitées avec respect, de manière ouverte et transparente, avec des garanties solides et raisonnables, et rendues accessibles à leur demande, cela favorise la confiance et une relation positive. Si les clients sont les plus grands atouts d’une entreprise, il s’ensuit que leurs informations personnelles le sont également. Les organisations voudront construire et protéger leurs actifs, et les informations personnelles, en tant qu'actif, ne sont pas différentes. Une organisation responsable peut démontrer aux clients, aux employés, aux actionnaires et aux régulateurs qu'elle valorise la confidentialité, non seulement pour des raisons de conformité, mais aussi parce que la confidentialité a un bon sens commercial.
 
-Pour savoir comment nous pouvons vous aider à tirer parti de vos investissements en matière de confidentialité, contactez-nous. [** Contactez-nous **] ({{site.baseurl}} / contact)
+Pour savoir comment nous pouvons vous aider à tirer parti de vos investissements en matière de confidentialité, contactez-nous. [** Contactez-nous **] ({{ site.baseurl }}/contact)
