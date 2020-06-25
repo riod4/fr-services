@@ -1,10 +1,10 @@
 ---
 layout:     services
-title:      "Enhance Value"
-subtitle:   "Optimizing privacy management to improve responsiveness."
-description: "Organizations that get privacy right improve their customer relationships, operational efficiency, and bottom-line results."
+title:      "Valoriser vos actifs"
+subtitle:   "Optimiser votre gestion des données personnelles."
+description: "Les organisations qui respectent la confidentialité améliorent leurs relations avec les clients, leur efficacité opérationnelle et leurs résultats."
 date:       2020-01-22 12:00:00
-permalink:  /enhance-value
+permalink:  /valoriser-vos-actifs
 author:     "dario"
 header-img: "img/enhance-value.jpg"
 image: "/img/enhance-value.jpg"
@@ -14,18 +14,18 @@ header-credit-link:
 header-license: CC0 Creative Commons
 ---
 
-## Beyond compliance
-A comprehensive privacy management program provides an effective way to satisfy regulators and assure compliance. But it is more than that. Done right, such a program helps foster a culture of privacy that builds trust, and increases operational efficiency, including bottom-line results. Senior management support is vital in achieving business benefits when working on privacy compliance. When senior management provides the needed resources to ensure appropriate training and education, it sends a clear signal that privacy is vital to the organization. 
+## Au-delà de la conformité
+Un programme complet de gestion de la confidentialité fournit un moyen efficace de satisfaire les régulateurs et d'assurer la conformité. Mais c'est plus que ça. Bien exécuté, un tel programme contribue à favoriser une culture de confidentialité qui renforce la confiance et augmente l'efficacité opérationnelle, y compris les résultats nets. Le soutien de la haute direction est essentiel pour obtenir des avantages commerciaux lorsque vous travaillez sur la conformité de la confidentialité. Lorsque la haute direction fournit les ressources nécessaires pour assurer une formation et une éducation appropriées, cela envoie un signal clair que la confidentialité est vitale pour l'organisation.
 
-Organizations that treat privacy as vital to their operations, by implementing a robust privacy management program, benefit from greater trust and engagement from customers and clients. They also enjoy an enhanced reputation that can give them a competitive edge. In the longer term, a privacy management program that is scaled to the organization’s needs will save money and make good business sense.
+Les organisations qui considèrent la confidentialité comme vitale pour leurs opérations, en mettant en œuvre un programme de gestion de la confidentialité robuste, bénéficient d'une plus grande confiance et engagement de la part des clients et des clients. Ils bénéficient également d'une réputation améliorée qui peut leur donner un avantage concurrentiel. À plus long terme, un programme de gestion de la vie privée adapté aux besoins de l’organisation permettra d’économiser de l’argent et de faire preuve de bon sens commercial.
 
-### Compliance fundamentals 
-What should an organization do to ensure that it is handling personal information appropriately? How will it know that it is doing it right? How will it be able to demonstrate to its clients, partners and to the authorities that it has the capacity to comply with its legal obligations? An organization that processes personal data is required to implement and maintain a privacy protection program. It needs to define policies and processes, as well as provide role-specific employee privacy training. It needs to have contracts in place if it transfers personal information to other companies for processing, to ensure that the information in question is adequately protected. Organizations are expected to have a an easy-to-understand public privacy policy in place, with clear procedures to respond to requests from individuals for access to (and correction of) their personal information. It needs to be able to respond to complaints from individuals about how personal information is being used and protected, with regularly maintained documentation.
+### Fondements de la conformité
+Que doit faire une organisation pour s'assurer qu'elle traite correctement les informations personnelles? Comment saura-t-il qu'il le fait bien? Comment pourra-t-elle démontrer à ses clients, partenaires et aux autorités qu'elle a la capacité de respecter ses obligations légales? Une organisation qui traite des données personnelles est tenue de mettre en œuvre et de maintenir un programme de protection de la vie privée. Il doit définir des politiques et des processus, ainsi que fournir une formation spécifique à la confidentialité des employés. Elle doit avoir des contrats en place si elle transfère des informations personnelles à d'autres sociétés pour traitement, afin de garantir que les informations en question sont correctement protégées. Les organisations doivent avoir mis en place une politique de confidentialité publique facile à comprendre, avec des procédures claires pour répondre aux demandes d'accès (et de correction) de leurs informations personnelles. Il doit être en mesure de répondre aux plaintes des particuliers sur la manière dont les informations personnelles sont utilisées et protégées, avec une documentation régulièrement mise à jour.
 
-### Achieving compliance
-![4 step compliance methodology](img/compliance4stepmethodology.png)
+### Atteindre la conformité
+! [Méthodologie de conformité en 4 étapes] (img / compliance4stepmethodology.png)
 
-### Building trust  
-Identifying where your organization can gain a competitive advantage while complying with local and international privacy laws should be one of your top priorities if you want to thrive in an increasingly data-driven environment. Boosting operational efficiency, increasing sales, and fostering trust, can all be gained by developing a tailored privacy management program. Identifying and purging sensitive, redundant, obsolete and trivial data of no business value lowers operational costs. Lean, fine-tuned databases of highly relevant data increase productivity and efficiency. Role-specific privacy training to relevant employee groups can increase growth and business opportunities. Ensuring personal data is safe will increase customer trust and enable your organization to use that data to offer services customers want.
+### Construire de la confiance
+Identifier les domaines dans lesquels votre organisation peut obtenir un avantage concurrentiel tout en respectant les lois locales et internationales en matière de confidentialité devrait être l'une de vos principales priorités si vous souhaitez vous développer dans un environnement de plus en plus axé sur les données. L'amélioration de l'efficacité opérationnelle, l'augmentation des ventes et la promotion de la confiance peuvent être obtenues en développant un programme de gestion de la confidentialité sur mesure. L'identification et la purge des données sensibles, redondantes, obsolètes et triviales sans valeur commerciale réduisent les coûts d'exploitation. Des bases de données maigres et affinées de données hautement pertinentes augmentent la productivité et l'efficacité. Une formation sur la confidentialité spécifique au rôle pour les groupes d'employés concernés peut augmenter la croissance et les opportunités commerciales. Garantir la sécurité des données personnelles augmentera la confiance des clients et permettra à votre organisation d'utiliser ces données pour offrir les services souhaités par les clients.
 
-To hear how we can help you build a privacy management program that benefits all areas of your organization, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
+Pour savoir comment nous pouvons vous aider à créer un programme de gestion de la confidentialité qui profite à tous les domaines de votre organisation, contactez-nous. [** Contactez-nous **] ({{site.baseurl}} / contact)
