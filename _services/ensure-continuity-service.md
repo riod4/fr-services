@@ -1,10 +1,10 @@
 ---
 layout:     services
-title:      "Ensure Continuity"
-subtitle:   "Developing plans to mitigate privacy incidents."
-description: "Recovering trust is more costly than protecting private data. Every organization should have a proven plan in place to mitigate a potential privacy incident."
-date:       2020-01-24 12:00:00
-permalink:  /ensure-continuity
+title:      "Assurer la continuité"
+subtitle:   "Élaborer vos plans de gestion d’incidents."
+description: "Récupéré la confiance est plus difficile que protéger des données. Chaque organisation doit avoir un plan en place pour gérer un éventuel incident impliquent des données privées."
+date:       2020-06-24 12:00:00
+permalink:  /assurer-la-continuite
 author:     "dario"
 header-img: "img/ensure-continuity.jpg"
 image: "/img/ensure-continuity.jpg"
@@ -14,24 +14,24 @@ header-credit-link:
 header-license:
 ---
 
-## Safeguarding confidence and trust 
-Recovering trust is more costly than protecting private data. Preparing for possible privacy incidents provides an opportunity to identify gaps, and develop procedures that improve internal accountability. Doing the minimum and ‘getting away with it’ leads to a weak plan and no confidence in the face of a real incident. We’ll ensure you’re prepared and confident.
+## Préserver la confiance
+La récupération de la confiance est plus coûteuse que la protection des données privées. La préparation à d'éventuels incidents de confidentialité donne l'occasion d'identifier les lacunes et d'élaborer des procédures qui améliorent la responsabilité interne. Faire le minimum et «s'en tirer» conduit à un plan faible et à aucune confiance face à un incident réel. Nous veillerons à ce que vous soyez préparé et confiant.
 
-### Increase your resilience
-An organization that processes personal data must have appropriate technical and organizational security measures in place. Appropriate means they should ensure a level of security corresponding to the level of risk. Consequently, a key element of any personal data policy is being able, where possible, to prevent a data breach and, where it nevertheless occurs, to react to it in a timely manner. This requires measures to:
+### Augmentez votre résilience
+Une organisation qui traite des données personnelles doit disposer de mesures de sécurité techniques et organisationnelles appropriées. Les moyens appropriés doivent garantir un niveau de sécurité correspondant au niveau de risque. Par conséquent, un élément clé de toute politique de données personnelles est de pouvoir, dans la mesure du possible, empêcher une violation de données et, lorsqu'elle se produit néanmoins, d'y réagir en temps opportun. Cela nécessite des mesures pour:
 
-1.	Prevent a personal data breach.
-2.	Enable detection of a possible data breach.
-3.	React in a timely manner to a personal data breach.
+1. Empêcher une violation des données personnelles.
+2. Activez la détection d'une éventuelle violation de données.
+3. Réagissez en temps opportun à une violation de données personnelles.
 
 
-### Reducing the risk of an incident
-Organizations need to show they are in control of the data they hold. This includes quickly identifying and reporting any high risk personal data breach. They should take into account the state of the art, the costs of implementation, as well as the likelihood and severity of an incident involving personal data.
+### Réduire le risque d'incident
+Les organisations doivent montrer qu'elles contrôlent les données qu'elles détiennent. Cela comprend l'identification et le signalement rapides de toute violation de données personnelles à haut risque. Ils devraient tenir compte de l'état de la technique, des coûts de mise en œuvre, ainsi que de la probabilité et de la gravité d'un incident impliquant des données personnelles.
 
-### Develop a privacy incident response plan
-A personal data breach of any size is a crisis management situation which, if mishandled, could put an entire organization at risk. Time is of the essence when a privacy incident has been identified. Personal data protection is not only an IT issue, it is a business risk, and any breach response should involve people from a number of different areas. Dealing with a data breach may be a first for many employees, it is therefore essential to have an incident response plan in place. Failure to do so increases the regulatory, litigation and reputation risk to the entire organization.
+### Élaborer un plan de réponse aux incidents de confidentialité
+Une violation de données personnelles de toute taille est une situation de gestion de crise qui, si elle est mal gérée, pourrait mettre en danger toute une organisation. Le temps est essentiel lorsqu'un incident de confidentialité a été identifié. La protection des données personnelles n'est pas seulement un problème informatique, c'est un risque commercial et toute réponse à une violation doit impliquer des personnes provenant de différents domaines. Faire face à une violation de données peut être une première pour de nombreux employés, il est donc essentiel d'avoir un plan de réponse aux incidents en place. Ne pas le faire augmente le risque de réglementation, de litige et de réputation pour l'ensemble de l'organisation.
 
-### Don't wait
-The biggest mistake organizations of all sizes make is waiting until after an incident to figure out what to do next. It is unfortunate since, generally, an organization will not suffer simply because of a data breach. It will however expose itself to greater risk by improperly responding to a breach, the result of not having a crisis plan in place. It’s important to not only build better defenses, but also better responses.
+### N'attendez pas
+La plus grande erreur des organisations de toutes tailles est d'attendre après un incident pour savoir quoi faire ensuite. C'est regrettable car, en général, une organisation ne souffrira pas simplement à cause d'une violation de données. Elle s'exposera cependant à un risque accru en répondant de manière incorrecte à une violation, le résultat de l'absence de plan de crise. Il est important non seulement de construire de meilleures défenses, mais aussi de meilleures réponses.
 
-To hear how we can help you increase resilience and mitigate the impact of a privacy incident, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
+Pour savoir comment nous pouvons vous aider à accroître la résilience et à atténuer l'impact d'un incident de confidentialité, contactez-nous. [** Contactez-nous **] ({{site.baseurl}} / contact)
