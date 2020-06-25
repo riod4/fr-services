@@ -1,10 +1,10 @@
 ---
 layout:     services
-title:      "Assess Readiness"
-subtitle:   "Proposing data privacy solutions tailored to your objectives."
+title:      "Évaluer vos besoins"
+subtitle:   "Proposer des solutions adaptées à vos objectifs."
 description: "As consumers embrace the convenience of data-driven platforms, data privacy and security will not only be a risk management issue, but a competitive advantage."
 date:       2020-01-21 12:00:00
-permalink:  /assess-readiness
+permalink:  /evaluer-vos-besoins
 author:     "dario"
 header-img: "img/assess-readiness.jpg"
 image: "/img/assess-readiness.jpg"
@@ -14,28 +14,28 @@ header-credit-link:
 header-license: CC0 Creative Commons
 ---
 
-## Data is at the core of your business
-Increasingly our world runs on data; some of it critical, much of it confidential. Information has become one of the most valuable assets an organization possesses. This [Harvard Business School article](https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/){:rel="nofollow noopener noreferrer"}{:target="_blank"} highlights Caesar’s Entertainment loyalty program, _Total Rewards_;
+## Les données sont au cœur de votre entreprise
+De plus en plus, notre monde fonctionne avec des données; une partie critique, une grande partie confidentielle. L'information est devenue l'un des atouts les plus précieux d'une organisation. Cet [article de la Harvard Business School] (https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/) {: rel = " nofollow noopener noreferrer "} {: target =" _ blank "} met en évidence le programme de fidélité de Caesar Entertainment, _Total Rewards_;
 
-> ### The most valuable asset in the Caesar’s Entertainment Corp. isn’t the fabulously-tacky Roman-themed resort on the Las Vegas strip.  It’s the company’s big data loyalty program, valued at $1 billion.
--- <cite>Harvard Business School</cite>
+> ### L’atout le plus précieux de Caesar’s Entertainment Corp. n’est pas la station balnéaire à thème romain fabuleusement collante du Strip de Las Vegas. Il s'agit du programme de fidélisation Big Data de l'entreprise, évalué à 1 milliard de dollars.
+- <cite> Harvard Business School </cite>
 
-The data stored in the _Total Rewards_ loyalty program was estimated to be worth over $1 billion and was at the centre of a very heated Caesar’s Palace bankruptcy feud with its creditors. Personal information in the loyalty program was deemed a more valuable asset than the resort on the Las Vegas strip.
+Les données stockées dans le programme de fidélité _Total Rewards_ étaient estimées à plus d'un milliard de dollars et étaient au centre d'une querelle de faillite très animée contre le Caesar’s Palace avec ses créanciers. Les informations personnelles dans le programme de fidélité ont été considérées comme un atout plus précieux que le complexe sur le Strip de Las Vegas.
 
-> ### In this age of hyper connected consumers, data is definitely the new age ‘oil’.
--- <cite>World Economic Forum</cite>
+> ### En cette ère de consommateurs hyper connectés, les données sont définitivement la nouvelle ère «pétrole».
+- <cite> Forum économique mondial </cite>
 
-### Identify data, business processes and people 
-Your organization may produce and store mission critical data, intellectual property, patents, business methodologies, and an increasing amount of personal data. How can you effectively assign the resources needed to secure your sensitive data? By identifying critical data, business processes and key people, you can focus your efforts on securing key elements against loss or threats. Understanding what assets are vital to your organization helps direct resources efficiently and effectively.
+### Identifier les données, les processus métier et les personnes
+Votre organisation peut produire et stocker des données essentielles à la mission, la propriété intellectuelle, les brevets, les méthodologies commerciales et une quantité croissante de données personnelles. Comment pouvez-vous affecter efficacement les ressources nécessaires pour sécuriser vos données sensibles? En identifiant les données critiques, les processus métier et les personnes clés, vous pouvez concentrer vos efforts sur la sécurisation des éléments clés contre la perte ou les menaces. Comprendre quels actifs sont essentiels à votre organisation aide à diriger les ressources de manière efficace et efficiente.
 
-> ### "If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
--- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite>
+> ### "Si nous gardons nos brosses à dents et nos diamants avec le même zèle, nous perdrons moins de brosses à dents et plus de diamants."
+- <cite> McGeorge Bundy, conseiller américain à la sécurité nationale, s'adressant au président John F. Kennedy </cite>
  
-The quote by McGeorge Bundy illustrates the importance of identifying key assets. Another example would be to compare the value of a medical practice's long-term assets vs. a database containing patients' medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in patient records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations, fines) and in terms of the clinic's reputation.
+La citation de McGeorge Bundy illustre l'importance d'identifier les principaux actifs. Un autre exemple serait de comparer la valeur des actifs à long terme d'un cabinet médical par rapport à une base de données contenant les dossiers médicaux des patients. Une échographe portable volée pourrait être remplacée au prix de milliers de dollars, sans mettre en danger l'avenir de la clinique. Une brèche dans les systèmes d'information de la clinique, entraînant la mauvaise gestion des dossiers des patients, pourrait avoir un effet dévastateur sur la clinique, tant sur le plan financier (litiges, enquêtes réglementaires, amendes) que sur la réputation de la clinique.
  
-With the regulatory climate around the world for personal data protection heating up, establishing effective data privacy controls is vital. The growth of data-driven applications increases the risks of personal data abuse. By setting up clear guidelines, raising employee awareness, embracing accountability and transparency in how they manage personal data, organizations are not only responding to compliance laws, they boost loyalty and trust, improving their customer relationships.
+Avec le réchauffement du climat réglementaire dans le monde pour la protection des données personnelles, il est vital d'établir des contrôles efficaces de la confidentialité des données. La croissance des applications basées sur les données augmente les risques d'abus de données personnelles. En mettant en place des directives claires, en sensibilisant les employés, en adoptant la responsabilité et la transparence dans la façon dont ils gèrent les données personnelles, les organisations ne répondent pas seulement aux lois de conformité, elles renforcent la loyauté et la confiance, améliorant leurs relations avec les clients.
 
-### Leverage your privacy investment 
-Within an organization, privacy is essential to establishing and maintaining trust. If customers, clients or employees believe that their personal information will be handled respectfully, in an open and transparent manner, with strong, reasonable safeguards, and made accessible to them at their request, it fosters trust and a positive relationship. If customers are a company’s greatest assets, then it follows that their personal information is also. Organizations will want to build and protect their assets, and personal information, as an asset, is no different. An accountable organization can demonstrate to customers, employees, shareholders, and regulators that it values privacy, not only for compliance reasons, but also because privacy makes good business sense.
+### Tirez parti de votre investissement en matière de confidentialité
+Au sein d'une organisation, la confidentialité est essentielle pour établir et maintenir la confiance. Si les clients, les clients ou les employés croient que leurs informations personnelles seront traitées avec respect, de manière ouverte et transparente, avec des garanties solides et raisonnables, et rendues accessibles à leur demande, cela favorise la confiance et une relation positive. Si les clients sont les plus grands atouts d’une entreprise, il s’ensuit que leurs informations personnelles le sont également. Les organisations voudront construire et protéger leurs actifs, et les informations personnelles, en tant qu'actif, ne sont pas différentes. Une organisation responsable peut démontrer aux clients, aux employés, aux actionnaires et aux régulateurs qu'elle valorise la confidentialité, non seulement pour des raisons de conformité, mais aussi parce que la confidentialité a un bon sens commercial.
 
-To hear how we can help you leverage your privacy investments, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
+Pour savoir comment nous pouvons vous aider à tirer parti de vos investissements en matière de confidentialité, contactez-nous. [** Contactez-nous **] ({{site.baseurl}} / contact)
