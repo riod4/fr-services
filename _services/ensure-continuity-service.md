@@ -34,4 +34,4 @@ Une violation de données personnelles de toute taille est une situation de gest
 ### N'attendez pas
 La plus grande erreur des organisations de toutes tailles est d'attendre après un incident pour savoir quoi faire ensuite. C'est regrettable car, en général, une organisation ne souffrira pas simplement à cause d'une violation de données. Elle s'exposera cependant à un risque accru en répondant de manière incorrecte à une violation, le résultat de l'absence de plan de crise. Il est important non seulement de construire de meilleures défenses, mais aussi de meilleures réponses.
 
-Pour savoir comment nous pouvons vous aider à accroître la résilience et à atténuer l'impact d'un incident de confidentialité, contactez-nous. [** Contactez-nous **] ({{site.baseurl}} / contact)
+Pour savoir comment nous pouvons vous aider à accroître la résilience et à atténuer l'impact d'un incident de confidentialité, contactez-nous. [**Contactez-nous**]({{site.baseurl }}/contact)
