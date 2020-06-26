@@ -10,7 +10,7 @@ header-img: "img/protect-assets.jpg"
 image: "/img/protect-assets.jpg"
 header-title:
 header-author:
-header-credit-link: https://pixabay.com/en/computers-information-technology-2652997/
+header-credit-link:
 header-license: CC0 Creative Commons
 ---
 
