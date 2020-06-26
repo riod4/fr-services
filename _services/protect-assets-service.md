@@ -3,7 +3,7 @@ layout:     services
 title:      "Accroître la valeur"
 subtitle:   "Optimiser la gestion de la confidentialité pour améliorer la réactivité."
 description: "Les organisations qui respectent la confidentialité améliorent leurs relations avec les clients, leur efficacité opérationnelle et leurs résultats nets."
-date:       2020-01-22 12:00:00
+date:       2020-06-26 12:00:00
 permalink:  /proteger-vos-actifs
 author:     "dario"
 header-img: "img/protect-assets.jpg"
@@ -23,7 +23,7 @@ Les organisations qui considèrent la confidentialité comme vitale pour leurs o
 Que doit faire une organisation pour s'assurer qu'elle traite correctement les informations personnelles? Comment saura-t-il qu'il le fait bien? Comment pourra-t-elle démontrer à ses clients, partenaires et aux autorités qu'elle a la capacité de respecter ses obligations légales? Une organisation qui traite des données personnelles est tenue de mettre en œuvre et de maintenir un programme de protection de la vie privée. Il doit définir des politiques et des processus, ainsi que fournir une formation spécifique à la confidentialité des employés. Elle doit avoir des contrats en place si elle transfère des informations personnelles à d'autres sociétés pour traitement, afin de garantir que les informations en question sont correctement protégées. Les organisations doivent avoir mis en place une politique de confidentialité publique facile à comprendre, avec des procédures claires pour répondre aux demandes d'accès (et de correction) de leurs informations personnelles. Il doit être en mesure de répondre aux plaintes des particuliers sur la manière dont les informations personnelles sont utilisées et protégées, avec une documentation régulièrement mise à jour.
 
 ### Atteindre la conformité
-! [Méthodologie de conformité en 4 étapes] (img/compliance4stepmethodology.png)
+![Méthodologie de conformité en 4 étapes](img/compliance4stepmethodology.png)
 
 ### Construire de la confiance
 Identifier les domaines dans lesquels votre organisation peut obtenir un avantage concurrentiel tout en respectant les lois locales et internationales en matière de confidentialité devrait être l'une de vos principales priorités si vous souhaitez vous développer dans un environnement de plus en plus axé sur les données. L'amélioration de l'efficacité opérationnelle, l'augmentation des ventes et la promotion de la confiance peuvent être obtenues en développant un programme de gestion de la confidentialité sur mesure. L'identification et la purge des données sensibles, redondantes, obsolètes et triviales sans valeur commerciale réduisent les coûts d'exploitation. Des bases de données maigres et affinées de données hautement pertinentes augmentent la productivité et l'efficacité. Une formation sur la confidentialité spécifique au rôle pour les groupes d'employés concernés peut augmenter la croissance et les opportunités commerciales. Garantir la sécurité des données personnelles augmentera la confiance des clients et permettra à votre organisation d'utiliser ces données pour offrir les services souhaités par les clients.
