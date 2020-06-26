@@ -34,4 +34,4 @@ Les organisations doivent définir comment elles détectent, protègent et répo
 
 Les attaques de rançongiciels doivent être signalées aux autorités compétentes. Dans la plupart des cas, les autorités suggéreront fortement de ne pas payer de rançon en réponse à une attaque. Il n'y a, après tout, aucune garantie que le paiement d'une rançon entraînera la récupération des données en question. Il va sans dire que la prévention d'une attaque de malware sera toujours préférable à l'alternative d'avoir à faire face aux conséquences de la prise en otage de vos données par des cybercriminels.
 
-Pour savoir comment nous pouvons vous aider à minimiser les risques, contactez-nous. [**Contactez-nous**] ({{site.baseurl }}/contact)
+Pour savoir comment nous pouvons vous aider à minimiser les risques, contactez-nous. [**Contactez-nous**]({{site.baseurl }}/contact)
