@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Ransomware: a growing security threat"
-subtitle:   "Organizations of all sizes can be targets."
-description: "Ransomware is a type of malicious software that, once it infects computers, restricts access to files unless a crypto-currency ransom (e.g. Bitcoin) is paid."
+title:      "Rançongiciel : une menace croissante"
+subtitle:   "Les organisations de toutes tailles peuvent être des cibles."
+description: "Le rançongiciel est un type de logiciel malveillant qui, une fois qu'il infecte un ordinateur, restreint l'accès aux fichiers à moins qu'une rançon en crypto-monnaie est payée."
 date:       2017-12-15 12:00:00
-permalink:  /ransomware-security
+permalink:  /securite-rancongiciel
 author:     "dario"
 header-img: "img/ransomware-security.jpg"
 header-title:
@@ -13,25 +13,25 @@ header-credit-link: https://pixabay.com/en/hacking-cyber-crime-security-hacker-2
 header-license:  CC0 Creative Commons
 ---
 
-## Protect your organization against ransomware
-Ransomware is a type of malware that, when it infects computers, restricts user access to files, and often threatens the permanent deletion of data, unless a crypto-currency (e.g. Bitcoin) ransom is paid. The threat of ransomware is expected to increase with the rise of crypto-currencies. Digital currencies allow cybercriminals to operate without the fear of retribution since payments are not easily tracked by law enforcement agencies. The FBI’s Internet Crime Complaint Center (IC3) has seen a large increase in malware:
+## Protégez votre organisation contre les rançongiciel
+Le ransomware est un type de malware qui, lorsqu'il infecte les ordinateurs, restreint l'accès des utilisateurs aux fichiers et menace souvent la suppression permanente des données, à moins qu'une rançon crypto-monnaie (par exemple Bitcoin) ne soit payée. La menace des ransomwares devrait augmenter avec la montée des crypto-monnaies. Les monnaies numériques permettent aux cybercriminels d'opérer sans crainte de représailles, car les paiements ne sont pas faciles à suivre par les services répressifs. Le Centre de traitement des plaintes contre le crime Internet (IC3) du FBI a constaté une forte augmentation des programmes malveillants:
 
-> ### over $24 million was paid to attackers in 2015. In Q1 of 2016 alone, ransomware costs rose to $209 million, and is projected to reach $1 billion by year's end.
--- <cite>IC3, the FBI’s Internet Crime Complaint Center</cite>  
+> ### plus de 24 millions de dollars ont été versés aux attaquants en 2015. Au premier trimestre de 2016 seulement, les coûts des ransomwares ont atteint 209 millions de dollars et devraient atteindre 1 milliard de dollars d'ici la fin de l'année.
+- <cite> IC3, le Centre de traitement des plaintes concernant la criminalité sur Internet du FBI </cite>
 
-### Cyber-attacks are neither industry nor sector specific
+### Les cyberattaques ne sont ni spécifiques à une industrie ni a un secteur
 
-Organizations need to define how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/protect-assets-service.md %}) is a recommended approach to protect an organization from a wide variety of risks:
+Les organisations doivent définir comment elles détectent, protègent et répondent aux attaques de ransomwares. Comme c'est le cas avec d'autres types d'attaques malveillantes, [plusieurs couches de sécurité]({{site.baseurl }}{% link _services/protect-assets-service.md%}) est une approche recommandée pour protéger une organisation contre un grande variété de risques:
 
-* **Identify risk —** Carry out a risk assessment
-* **Define security and privacy policies —** Reflect the objectives set by management
-* **Customize education, training and awareness programs —** Identify and adapt training for all user profiles
-* **Keep information systems current and up to date —** Audit information systems and define update procedures
-* **Develop business continuity and disaster recovery plans —** Backups, incident management, contingency planning
-* **Install preventive controls —** Firewalls, endpoint security
-* **Maintain comprehensive logs and audit trails —** Implement a security log management infrastructure
-* **Evaluate cyber liability insurance —** Protection against major losses
+* **Identifier les risques -** Effectuer une évaluation des risques
+* **Définir les politiques de sécurité et de confidentialité -** Refléter les objectifs fixés par la direction
+* **Personnaliser les programmes d'éducation, de formation et de sensibilisation -** Identifier et adapter la formation pour tous les profils d'utilisateurs
+* **Maintenir les systèmes d'information à jour et à jour -** Auditer les systèmes d'information et définir les procédures de mise à jour
+* **Élaborer des plans de continuité des activités et de reprise après sinistre -** Sauvegardes, gestion des incidents, planification d'urgence
+* **Installer des contrôles préventifs - **Pare-feu, sécurité des terminaux
+* **Maintenir des journaux complets et des pistes d'audit -** Mettre en œuvre une infrastructure de gestion des journaux de sécurité
+* **Évaluez l'assurance cyber-responsabilité -** Protection contre les pertes importantes
 
-Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack will always be preferable to the alternative of having to deal with the consequences of having your data held hostage by cybercriminals.
+Les attaques de rançongiciels doivent être signalées aux autorités compétentes. Dans la plupart des cas, les autorités suggéreront fortement de ne pas payer de rançon en réponse à une attaque. Il n'y a, après tout, aucune garantie que le paiement d'une rançon entraînera la récupération des données en question. Il va sans dire que la prévention d'une attaque de malware sera toujours préférable à l'alternative d'avoir à faire face aux conséquences de la prise en otage de vos données par des cybercriminels.
 
-To hear how we can help you minimize risk, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
+Pour savoir comment nous pouvons vous aider à minimiser les risques, contactez-nous. [**Contactez-nous**] ({{site.baseurl }}/contact)
