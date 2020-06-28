@@ -81,4 +81,4 @@ Nous comprenons qu'il s'agit d'un casse-tête pour les entreprises nord-américa
 * Avis 05/2014 «Article 29» du groupe de travail sur les techniques d'anonymisation
 
 
-<a name="myfootnote1">1</a>:L'utilisation de données de localisation ou de cookies est également couverte par une législation spécifique supplémentaire - la directive sur la vie privée et les communications électroniques (directive 2002/58/CE du Parlement européen et du Conseil du 12 Juillet 2002 (JO L 201 du 31.7.2002, p. 37) et règlement (CE) no 2006/2004) du Parlement européen et du Conseil du 27 octobre 2004 (JO L 364 du 9.12.2004, p. 1).
+<a name="myfootnote1">1</a>: L'utilisation de données de localisation ou de cookies est également couverte par une législation spécifique supplémentaire - la directive sur la vie privée et les communications électroniques (directive 2002/58/CE du Parlement européen et du Conseil du 12 Juillet 2002 (JO L 201 du 31.7.2002, p. 37) et règlement (CE) no 2006/2004) du Parlement européen et du Conseil du 27 octobre 2004 (JO L 364 du 9.12.2004, p. 1).
