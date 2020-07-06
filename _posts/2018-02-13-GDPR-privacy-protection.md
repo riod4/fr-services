@@ -3,7 +3,7 @@ layout:     post
 title:      "RGPD: ce que les PME doivent savoir en matière de confidentialité"
 subtitle:   "Le nouveau règlement de l'UE sur la protection des données."
 description: "Le RGPD fait l'actualité. Avec la date d'entrée en vigueur du 25 mai 2018, les grandes et petites entreprises non européennes sont préoccupées par la question de la conformité."
-date:       2020-06-28 12:00:00
+date:       2018-02-13 12:00:00
 permalink:  /rgpd
 author:     "dario"
 header-img: "img/GDPR-privacy-protection.jpg"
