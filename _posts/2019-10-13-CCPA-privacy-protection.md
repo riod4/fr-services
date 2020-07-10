@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "CCPA : California Consumer Privacy Act"
-subtitle:   "En juillet 2020, la non-conformité sera risquée"
+subtitle:   "Après juillet 2020, la non-conformité sera risquée"
 description: "Le climat réglementaire dans le monde pour la protection des données s'active. Les réglementations sur la confidentialité des données comme le RGPD et le CCPA deviennent la norme. Votre entreprise est-elle prête?"
 date:       2019-10-13 12:00:00
 permalink:  /ccpa
@@ -15,7 +15,7 @@ header-license:
 
 ---
 
-L'État de Californie est la cinquième plus grande économie du monde; plus grand que le Royaume-Uni, la France ou l'Inde. Le 1er janvier 2020, la California Consumer Privacy Act (CCPA) <sup>[1](#myfootnote1)</sup> entre en vigueur et cette nouvelle loi sur la confidentialité a des implications extraterritoriales. Le CCPA vise à protéger les consommateurs, à renforcer les droits à la vie privée et à offrir une plus grande transparence aux résidents de l'État de Californie. Le CCPA habilite également les consommateurs à déposer des recours collectifs pour les atteintes à la vie privée sans les obliger à présenter une perte probante de biens ou d'argent. En cas de violation de données, une entreprise pourrait faire face à des dommages-intérêts civils pouvant atteindre 750 $ par violation, par consommateur ou dommages réels, selon le montant le plus élevé, ainsi que tout autre redressement que le tribunal jugerait approprié.
+L'État de Californie est la cinquième plus grande économie du monde; plus grand que le Royaume-Uni, la France ou l'Inde. Le 1er juillet 2020, la California Consumer Privacy Act (CCPA) <sup>[1](#myfootnote1)</sup> entre en vigueur et cette nouvelle loi sur la confidentialité a des implications extraterritoriales. Le CCPA vise à protéger les consommateurs, à renforcer les droits à la vie privée et à offrir une plus grande transparence aux résidents de l'État de Californie. Le CCPA habilite également les consommateurs à déposer des recours collectifs pour les atteintes à la vie privée sans les obliger à présenter une perte probante de biens ou d'argent. En cas de violation de données, une entreprise pourrait faire face à des dommages-intérêts civils pouvant atteindre 750 $ par violation, par consommateur ou dommages réels, selon le montant le plus élevé, ainsi que tout autre redressement que le tribunal jugerait approprié.
 
 > ### Une entreprise partout dans le monde qui subit une violation de données qui inclut des données personnelles sur quelques milliers de clients en Californie pourrait encourir des millions de dollars d'amendes CCPA.
 
@@ -69,7 +69,7 @@ Le 1er janvier 2020, les entreprises ont 30 jours pour se conformer à la loi un
 
 **Le CCPA: un travail en cours…**
 
-L'État de Californie a mis en œuvre d'urgence le CCPA en juin 2018 et il contenait de nombreuses ambiguïtés. Il a été adopté, en partie, pour anticiper sur une initiative de vote qui devait être votée en novembre 2018 et qui, si elle avait été adoptée, aurait imposé des exigences plus strictes en matière de confidentialité des données. Le CCPA utilise *«les données personnelles utilisées à mauvais escient par une société d'exploration de données appelée Cambridge Analytica»* comme exemple de pratiques commerciales auxquelles elle cherche à mettre fin. D'autres modifications auront probablement lieu, même après son entrée en vigueur en janvier 2020, mais les principes fondamentaux et les droits accordés aux consommateurs resteront.
+L'État de Californie a mis en œuvre d'urgence le CCPA en juin 2018 et il contenait de nombreuses ambiguïtés. Il a été adopté, en partie, pour anticiper sur une initiative de vote qui devait être votée en novembre 2018 et qui, si elle avait été adoptée, aurait imposé des exigences plus strictes en matière de confidentialité des données. Le CCPA utilise *«les données personnelles utilisées à mauvais escient par une société d'exploration de données appelée Cambridge Analytica»* comme exemple de pratiques commerciales auxquelles elle cherche à mettre fin. D'autres modifications auront probablement lieu, même après son entrée en vigueur en juillet 2020, mais les principes fondamentaux et les droits accordés aux consommateurs resteront.
 
 Le climat réglementaire dans le monde pour la protection des données personnelles se réchauffe. La Californie compte parmi plus d'une douzaine d'États qui adoptent ou envisagent de nouvelles lois sur la confidentialité. Les réglementations sur la confidentialité des données comme le [RGDP]({{ site.baseurl }}{% link _posts/2018-02-13-GDPR-privacy-protection.md %}) et le CCPA deviennent la norme et les organisations doivent mettre en œuvre une variété de les technologies et les meilleures pratiques pour garantir leur conformité. Un non-respect peut entraîner des conséquences importantes et négatives, notamment des coûts financiers directs par le biais de lourdes amendes, la perte de réputation de l'entreprise, des opportunités commerciales perdues, des dommages à la marque, etc. Pour plus d'informations sur la manière dont la California Consumer Privacy Act peut avoir un impact sur votre entreprise et pour garantir la conformité avec les règles de confidentialité de l'ACCP, contactez-nous. [**Contactez-nous**] ({{site.baseurl }}/contact)
 
